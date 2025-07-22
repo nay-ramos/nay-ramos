@@ -9,16 +9,17 @@ About Me:
 ✦ 📒 Coursing Data Analisys ad Télos.ia [5/9]
 
 ```
-![Static Badge](https://img.shields.io/badge/Kaggle-gray?style=for-the-badge&color=6fa9f8&cacheSeconds=https%3A%2F%2Fwww.kaggle.com%2Fartificialnay)
-![Static Badge](https://img.shields.io/badge/LinkedIn-gray?style=for-the-badge&color=%230077B5&cacheSeconds=https%3A%2F%2Fwww.linkedin.com%2Fin%2F-nayara-ramos%2F)
+![kaggle](https://img.shields.io/badge/Kaggle-gray?style=for-the-badge&color=6fa9f8&cacheSeconds=https%3A%2F%2Fwww.kaggle.com%2Fartificialnay)
+![linkedin](https://img.shields.io/badge/LinkedIn-gray?style=for-the-badge&color=%230077B5&cacheSeconds=https%3A%2F%2Fwww.linkedin.com%2Fin%2F-nayara-ramos%2F)
+![gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white&color=%23D14836&link=mailto%3Anayara.ramos.92%40gmail.com)
 
 
-eras | Study  | Carreer | Volunteer
------|-----|-------|----
-Web Java Programer | Systems Analisys and Development [2010-12] UNIBRATEC      | Pitang Agile [2012-15]    |  -
- Fashion and Service Designer | Design Bachelor [2017-23]  UFPE   |  | Enactus UFPE [2017-2019]
-Data Analyst | Data Analisys [2025-now] |
 
+Study |   
+----- |  
+Systems Analisys and Development [2010-12]  _UNIBRATEC_| 
+Design Bachelor [2017-23] _UFPE_ 
+Data Analisys [2025-now] _TÉLOS_
 
 
 ```diff
@@ -30,28 +31,8 @@ Tools:
 
 ```
 
-[![](https://img.shields.io/badge/github-blue?style=for-the-badge)](https://github.com/hamzamohdzubair/redant)
-[![](https://img.shields.io/badge/book-blueviolet?style=for-the-badge)](https://hamzamohdzubair.github.io/redant/)
-
-
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nay-ramos&theme=aura) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nay-ramos&theme=aura)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nay-ramos&theme=aura)
 
-```diff
-- lalalallallaa
-+ mimimimimimi
-! lululu
-# ç ç ç çç ç 
-@@ hhhhhhhhhhhhhhh @@
-```
-
-
-> [!IMPORTANT]
-> Crucial information necessary for users to succeed.
-
-
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nay-ramos&theme=aura) 
