@@ -5,7 +5,7 @@
 About Me:
 ✦ 💁🏽‍♀️ She/Her
 ✦ 🏳️‍🌈 A proud black Woman and member of LGBTQ + community
-✦ 📈 Service Designer becoming Data Analist
+✦ 📈 Service Designer and Data Analyst
 ✦ 📒 Coursing Data Analisys ad Télos.ia [5/9]
 
 ```
